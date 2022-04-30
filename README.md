@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [beratsonmez.info](beratsonmez.info)
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **C# , Web App**
 
 - 📫 How to reach me **bert.snmz@gmail.com**
 
