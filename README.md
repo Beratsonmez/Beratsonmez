@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beratsonmez" alt="beratsonmez" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce site**
 
