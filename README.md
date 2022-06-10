@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **E-commerce site**
 
-- 🌱 I’m currently learning **Javascript , Frameworks .**
+- 🌱 I’m currently learning **Asp.Net (MVC) , EntityFrameworks .**
 
 - 👨‍💻 All of my projects are available at [beratsonmez.info](beratsonmez.info)
 
