@@ -1,19 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Berat Sönmez</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Game Developer from Turkey</h3>
 <br><br>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47mkdu76vn8bp4jnxf7pq3ae0q40fuec3ln5z704m3&rid=giphy.gif&ct=g">
 
 <br>
 
 
-- 🔭 I’m currently working on **E-commerce site**
+- 🔭 I’m currently working on **2D Platformer**
 
-- 🌱 I’m currently learning **Asp.Net (MVC) , EntityFrameworks .**
+- 🌱 I’m currently learning **C#,Unity .**
 
 - 👨‍💻 All of my projects are available at [beratsonmez.info](beratsonmez.info)
-
-- 💬 Ask me about **C# , Web App**
 
 - 📫 How to reach me **bert.snmz@gmail.com**
 
