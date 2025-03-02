@@ -7,9 +7,7 @@
 <br>
 
 
-- 🔭 I’m currently working on **2D Platformer**
-
-- 🌱 I’m currently learning **C#,Unity .**
+- 🔭 I’m currently working on **Video Games**
 
 - 👨‍💻 All of my projects are available at [beratsonmez.info](beratsonmez.info)
 
