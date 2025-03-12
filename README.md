@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Secrets Of The Ancients<br>🌱 I’m currently learning HandPaint Texturing and Three.js<br>👨‍💻 All of my art projects are available at https://www.artstation.com/beratsonmez<br>📄 Know about my experiences https://www.linkedin.com/in/berat-sonmez/</p>
+<p align="left">🔭 I’m currently working on Three.js and Indie Survival Games<br>🌱 I’m currently learning HandPaint Texturing and Three.js<br>👨‍💻 All of my art projects are available at https://www.artstation.com/beratsonmez<br>📄 Know about my experiences https://www.linkedin.com/in/berat-sonmez/</p>
 
 ###
 
